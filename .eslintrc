@@ -1,0 +1,17 @@
+{
+    "env": {
+        "browser": true,
+        "node": true,
+        "es6": true
+    },
+
+    "rules": {
+        "quotes": [2, "single", "avoid-escape"],
+        "no-multi-spaces": false
+    },
+
+    "ecmaFeatures": {
+        "modules": true,
+        "arrowFunctions": true
+    }
+}
